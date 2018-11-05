@@ -1,6 +1,7 @@
 <?php 
 define('DB_HOST', 'localhost');
 define('DB_USER', 'root');
+define('DB_PASS', 'password');
 //define(DB_NAME, 'logger');
 define('DB_NAME', 'login1');
 class database {
